@@ -1,2 +1,4 @@
-# Brain-Trainer-Android-Game
-![screenshot_1488924390](https://cloud.githubusercontent.com/assets/24209732/23680905/e5aee878-035a-11e7-94eb-0b39219b2af0.png)
+![img_6683](https://cloud.githubusercontent.com/assets/24209732/23681810/824c8368-035e-11e7-9407-5f01ab36d923.PNG)
+![img_6687](https://cloud.githubusercontent.com/assets/24209732/23681809/824bf312-035e-11e7-8554-c9c3999a1e8f.PNG)
+![img_6688](https://cloud.githubusercontent.com/assets/24209732/23681808/8249a0da-035e-11e7-9744-d60599d64283.PNG)
+![img_6689](https://cloud.githubusercontent.com/assets/24209732/23681811/8263a55c-035e-11e7-8033-5ad4525c655d.PNG)
