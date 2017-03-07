@@ -1,6 +1,5 @@
 
-
-This app gives the opportunity to boost user’s brainpower by spending a bit of time playing every day. Brain Trainer gaming app creates a series of addition of sums and that require users to answer within 30 seconds. I used Anroid Studio to develop this Game.
+ I used Anroid Studio to develop this Game. It is my side project. 
 
 
 ![img_6683](https://cloud.githubusercontent.com/assets/24209732/23682192/94256bd4-0360-11e7-874f-19f088c12c48.PNG)
