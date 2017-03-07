@@ -1,5 +1,6 @@
 
 Brain Trainer, Android Educational Game App. December 2015
+
 This app gives the opportunity to boost user’s brainpower by spending a bit of time playing every day. Brain Trainer gaming app creates a series of addition of sums and that require users to answer within 30 seconds.
 
 
